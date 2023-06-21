@@ -2,4 +2,3 @@
 - 👀 I’m interested in l'informatique
 - 🌱 I’m currently learning The C,php
 - 📫 How to reach me 0xbash#6000
-- 🚀 my discord for github 
